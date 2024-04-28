@@ -1,0 +1,1 @@
+/usr/bin/c++ -std=c++11 -g CMakeFiles/basic_test_of_gmsh.dir/basic_test_of_gmsh.cpp.o -o basic_test_of_gmsh  /usr/lib/x86_64-linux-gnu/libgmsh.so 

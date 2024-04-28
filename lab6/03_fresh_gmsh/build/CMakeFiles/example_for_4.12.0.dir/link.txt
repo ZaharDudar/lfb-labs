@@ -1,0 +1,1 @@
+/usr/bin/c++ -std=c++11 -g CMakeFiles/example_for_4.12.0.dir/example_for_4.12.0.cpp.o -o example_for_4.12.0  -Wl,-rpath,/home/zahar/gmsh-4.12.2/lib /home/zahar/gmsh-4.12.2/lib/libgmsh.so 

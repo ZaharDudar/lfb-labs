@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/main.dir/main.cpp.o -o main  -Wl,-rpath,/home/zahar/labsLFB/lab6/01_simple_static_library/build libgac.so 

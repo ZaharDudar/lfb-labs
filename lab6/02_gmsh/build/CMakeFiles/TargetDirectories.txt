@@ -1,0 +1,3 @@
+/home/zahar/labsLFB/lab6/02_gmsh/build/CMakeFiles/basic_test_of_gmsh.dir
+/home/zahar/labsLFB/lab6/02_gmsh/build/CMakeFiles/edit_cache.dir
+/home/zahar/labsLFB/lab6/02_gmsh/build/CMakeFiles/rebuild_cache.dir

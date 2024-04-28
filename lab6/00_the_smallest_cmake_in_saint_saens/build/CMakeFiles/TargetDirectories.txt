@@ -1,0 +1,3 @@
+/home/zahar/labsLFB/lab6/00_the_smallest_cmake_in_saint_saens/build/CMakeFiles/hello.dir
+/home/zahar/labsLFB/lab6/00_the_smallest_cmake_in_saint_saens/build/CMakeFiles/edit_cache.dir
+/home/zahar/labsLFB/lab6/00_the_smallest_cmake_in_saint_saens/build/CMakeFiles/rebuild_cache.dir

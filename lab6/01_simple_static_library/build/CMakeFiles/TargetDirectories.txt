@@ -1,0 +1,4 @@
+/home/zahar/labsLFB/lab6/01_simple_static_library/build/CMakeFiles/gac.dir
+/home/zahar/labsLFB/lab6/01_simple_static_library/build/CMakeFiles/main.dir
+/home/zahar/labsLFB/lab6/01_simple_static_library/build/CMakeFiles/edit_cache.dir
+/home/zahar/labsLFB/lab6/01_simple_static_library/build/CMakeFiles/rebuild_cache.dir
